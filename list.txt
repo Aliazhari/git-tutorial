@@ -1,7 +1,9 @@
 Milk 
 Butter 
 Sugar
-
+1
+2
+3
 
 
 
